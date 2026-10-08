@@ -10,15 +10,13 @@ Aplicación Web Full-Stack construida con arquitectura limpia MVC, POO y medidas
    cd proyecto-gestion/backend
 2. Instalar las dependencias del Backend
 Ubícate en la carpeta del servidor e instala los módulos de Node:
-
-Bash
-cd backend
-npm install
+   Bash
+   cd backend
+   npm install
 3. Ejecutar el servidor
-Levanta el proyecto en modo desarrollo usando nodemon:
-
-Bash
-npm run dev
+   Levanta el proyecto en modo desarrollo usando nodemon:
+   Bash
+   npm run dev
 4. Acceder a la aplicación
-Abre tu navegador web y dirígete a:
-👉 http://localhost:3000
+   Abre tu navegador web y dirígete a:
+   👉 http://localhost:3000
