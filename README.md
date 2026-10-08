@@ -6,5 +6,5 @@ Aplicación Web Full-Stack construida con arquitectura limpia MVC, POO y medidas
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/brander054/gestion.git>
    cd proyecto-gestion/backend
